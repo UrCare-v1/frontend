@@ -12,6 +12,11 @@ git clone https://github.com/UrCare-v1/frontend.git
 cd frontend/client
 ```
 
+## Install dependencies
+```bash
+npm install
+```
+
 ## Start the Development Server
 ```bash
 npm run dev
